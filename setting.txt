@@ -1,2 +1,8 @@
 https://github.com/ThanCoder/server_repo.git
 git@github.com:ThanCoder/server_repo.git
+
+### 
+
+https://github.com/ThanCoder/server_repo/raw/refs/heads/main/dev_page_api.json
+
+https://github.com/ThanCoder/server_repo/raw/refs/heads/main/forward_proxy_api.json
