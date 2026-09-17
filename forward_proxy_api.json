@@ -1,27 +1,7 @@
 [
   {
     "title": "express forward proxy",
-    "url": "https://express-forward-proxy.vercel.app",
-    "desc": ""
-  },
-  {
-    "title": "express forward proxy 2",
-    "url": "https://express-forward-proxy2.vercel.app",
-    "desc": ""
-  },
-  {
-    "title": "than forward proxy",
-    "url": "https://than-forward-proxy.vercel.app",
-    "desc": ""
-  },
-  {
-    "title": "node browser",
-    "url": "https://node-browser.vercel.app",
-    "desc": ""
-  },
-  {
-    "title": "node browser 2",
-    "url": "https://node-browser-2.vercel.app",
+    "url": "https://ex-for-proxy.vercel.app",
     "desc": ""
   }
 ]
